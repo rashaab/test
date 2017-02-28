@@ -13,7 +13,7 @@ randomNumber(1, 10);
 ```
 
 ```
-URLSlug('My Favorite Songs');
+URLSlug2('My Favorite Songs');
 //=> 'my-favorite-songs'
 ```
 
